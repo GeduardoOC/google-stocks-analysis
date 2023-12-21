@@ -247,7 +247,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Kaggle.json
+# Kaggle ans CSV
 kaggle.json
+*.csv
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
