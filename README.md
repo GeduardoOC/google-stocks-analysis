@@ -1,1 +1,1 @@
-<h1 aling="center">Google Stocks Analysis</h1>
+<h1 align="center">Google Stocks Analysis</h1>
