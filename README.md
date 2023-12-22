@@ -12,5 +12,11 @@ pip3 install -r requirements.txt
 <h3>Do you wanna know the lowest historical price?</h3>
 
 ```sh
-python3 lowest_price.py
+python3 lower_price.py
+```
+
+<h3>Also wanna know the highest historical price?</h3>
+
+```sh
+python3 higher_price.py
 ```
