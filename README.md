@@ -26,3 +26,9 @@ python3 higher_price.py
 ```sh
 python3 max_volume.py
 ```
+
+<h3>You can see the average of the ten highest closes</h3>
+
+```sh
+python3 highest_prices_prom.py
+```
